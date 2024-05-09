@@ -1,4 +1,4 @@
-# SpringBoot-Cloud-Eureka-Feign
+# SpringBoot-Cloud-Eureka-Ribbon-Hystrix
 
 Service to Service Calls - Circuit Breaker Pattern - Hystrix
 
